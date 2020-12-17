@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br />
+
 ## 🔧 Technologies & Tools
 
 ###### Frontend
