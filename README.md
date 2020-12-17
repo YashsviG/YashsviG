@@ -4,7 +4,7 @@ Hi there, I'm Yashsvi (Yashi)
   👋
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/14/b0/83/14b083af7954ae3e6417d0b4fc13b61e.gif" width="230">
 
 ## 📞 Contact me
 
