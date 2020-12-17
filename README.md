@@ -27,7 +27,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=javascript&logoColor=808080)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c#&logoColor=0080ff)
+![C#](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=8993be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=4B8BBE)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
@@ -42,7 +42,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=FF7F50)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 
 ###### API
 
