@@ -27,17 +27,26 @@ Hi there, I'm Yashsvi (Yashi)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=javascript&logoColor=808080)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=c#&logoColor=0080ff)
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c#&logoColor=0080ff)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=8993be)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=4B8BBE)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=FFA500)
+
+###### Framework
+
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=ASP.NET&logoColor=339933)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=fb503b)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=3DDC84)
+![XCODE](https://img.shields.io/badge/-xcode-000000?style=flat&logo=xcode)
 
 ###### Database
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=FF7F50)
 
 ###### API
 
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
+![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=REST&logoColor=336791)
 
 ###### Package managers
 
@@ -52,8 +61,8 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Deployment services
 
-![Azure](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Azure%20Azure&logoColor=007FFF)
-![Heroku](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Heroku%20Heroku&logoColor=E6E6FA)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=Azure%20Azure&logoColor=007FFF)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20Heroku&logoColor=E6E6FA)
 
 
 ###### Container management
@@ -63,7 +72,6 @@ Hi there, I'm Yashsvi (Yashi)
 
 ## :computer: Currently learning :computer:
 ###### Data Science / Machine Learning / Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?&style=flat&logo=pandas&logoColor=transparent")
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?&style=flat&logo=PyTorch&logoColor=transparent)
