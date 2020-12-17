@@ -12,7 +12,7 @@ Hi there, I'm Yashsvi (Yashi)
 [![Gmail Badge](https://img.shields.io/badge/-girdhar.yashsvi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
 
 
-## 🔧 Technologies & Tools
+## :gear: Technologies & Tools
 
 ###### Frontend
 
@@ -69,6 +69,11 @@ Hi there, I'm Yashsvi (Yashi)
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 
+###### Prototyping
+
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Proto.io](https://img.shields.io/badge/-Proto.io-000000?style=flat&logo=proto.io)
+![InVision](https://img.shields.io/badge/-InVision-000000?style=flat&logo=invision)
 
 ## :computer: Currently learning :computer:
 ###### Data Science / Machine Learning / Artificial Intelligence
