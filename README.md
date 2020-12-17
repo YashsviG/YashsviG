@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 📞 Contact me
+
+[![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvi-g-893831107)](https://www.linkedin.com/in/yashsvi-g-893831107)
+[![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
+
 
 ## 🔧 Technologies & Tools
 
@@ -16,7 +21,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=ASP.NET&logoColor=76D04B)
 
 ###### Database
 
@@ -33,13 +38,6 @@
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=Yarn&logoColor=2C8EBB)
 
-###### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325)
-![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=Jasmine&logoColor=8A4182)
-![Karma](https://img.shields.io/badge/-Karma-000000?style=flat&logo=Karma&logoColor=8A4182)
-![Enzyme](https://img.shields.io/badge/-Enzyme-000000?style=flat&logo=Enzyme&logoColor=8A4182)
-
 
 ###### Version control system
 
@@ -48,8 +46,8 @@
 
 ###### Deployment services
 
-![Azure](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
-![Heroku](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Amazon%20AWS&logoColor=FFFFFF)
+![Azure](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Azure%20Azure&logoColor=007FFF)
+![Heroku](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Heroku%20Heroku&logoColor=E6E6FA)
 
 
 ###### Container management
@@ -57,7 +55,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 
 
-## 🚧 Currently learning 🚧
+## :computer: Currently learning :computer:
 ###### Data Science / Machine Learning / Artificial Intelligence
 ![Python](https://img.shields.io/badge/Python-000000?&style=flat&logo=python&logoColor=transparent)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?&style=flat&logo=numpy&logoColor=transparent)
