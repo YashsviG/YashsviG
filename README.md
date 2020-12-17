@@ -43,6 +43,7 @@ Hi there, I'm Yashsvi (Yashi)
 ###### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
 
 ###### API
 
@@ -61,8 +62,8 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Deployment services
 
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=Azure%20Azure&logoColor=007FFF)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20Heroku&logoColor=E6E6FA)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=Azure)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku&logoColor=8993be)
 
 
 ###### Container management
