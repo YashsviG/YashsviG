@@ -1,9 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  👋
+Hi there, I'm Yashsvi (Yashi)
+  👋
+</h1>
+
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-acvjetan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvi-g-893831107)](https://www.linkedin.com/in/yashsvi-g-893831107)
-[![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YashsviG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvi-g-893831107)](https://www.linkedin.com/in/yashsvi-g-893831107)
+[![Gmail Badge](https://img.shields.io/badge/-girdhar.yashsvi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
 
 
 ## 🔧 Technologies & Tools
@@ -20,14 +26,14 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=ASP.NET&logoColor=76D04B)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=javascript&logoColor=808080)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=c#&logoColor=0080ff)
 
 ###### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=FF7F50)
 
 ###### API
 
@@ -65,7 +71,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/crypt096/crypt096">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </>
 <a href="https://github.com/YashsviG/YashsviG">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsvig&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="yashsvig's GitHub Stats" />
