@@ -20,6 +20,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 ###### Backend
