@@ -63,7 +63,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Deployment services
 
-![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=Azure)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku&logoColor=8993be)
 
 
