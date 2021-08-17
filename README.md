@@ -26,7 +26,6 @@ Hi there, I'm Yashsvi (Yashi)
 ###### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Nodemon](https://img.shields.io/badge/-Nodemon-000000?style=flat&logo=Nodemon&logoColor=76D04B)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=javascript&logoColor=808080)
 ![C#](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=8993be)
@@ -36,7 +35,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Framework
 
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=ASP.NET&logoColor=339933)
+![.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=.net&logoColor=339933)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=fb503b)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=3DDC84)
 ![XCODE](https://img.shields.io/badge/-xcode-000000?style=flat&logo=xcode)
