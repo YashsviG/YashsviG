@@ -44,6 +44,7 @@ Hi there, I'm Yashsvi (Yashi)
 ###### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
 
 ###### API
