@@ -32,6 +32,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=4B8BBE)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=FFA500)
+![AWS Lambda Functions](https://img.shields.io/badge/-AWS_Lambda-000000?style=flat&logo=amazon&logoColor=FFA500)
 
 ###### Framework
 
