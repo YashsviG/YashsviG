@@ -20,6 +20,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
@@ -32,7 +33,8 @@ Hi there, I'm Yashsvi (Yashi)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=4B8BBE)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=FFA500)
-![AWS Lambda Functions](https://img.shields.io/badge/-AWS_Lambda-000000?style=flat&logo=amazon&logoColor=FFA500)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-000000?style=flat&logo=amazon)
+![Firebase Functions](https://img.shields.io/badge/-Firebase_Functions-000000?style=flat&logo=firebase)
 
 ###### Framework
 
@@ -66,7 +68,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku&logoColor=8993be)
-
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
 
 ###### Container management
 
