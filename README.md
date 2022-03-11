@@ -38,11 +38,16 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### Framework
 
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E)
 ![.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=.net&logoColor=339933)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=fb503b)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=3DDC84)
 ![XCODE](https://img.shields.io/badge/-xcode-000000?style=flat&logo=xcode)
 
+###### Testing
+
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-000000?style=flat&logo=puppeteer)
 ###### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
