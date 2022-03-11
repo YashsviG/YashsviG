@@ -4,12 +4,12 @@ Hi there, I'm Yashsvi (Yashi)
   👋
 </h1>
 
-<img align='right' src="https://i.pinimg.com/originals/14/b0/83/14b083af7954ae3e6417d0b4fc13b61e.gif" width="230">
+<img align='right' src="https://c.tenor.com/hl4H1KOXEMcAAAAM/bongo-cat-keyboard-smash.gif" width="230">
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-YashsviG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvi-g-893831107)](https://www.linkedin.com/in/yashsvi-g-893831107)
-[![Gmail Badge](https://img.shields.io/badge/-girdhar.yashsvi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Yashsvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvig/)](https://www.linkedin.com/in/yashsvi-g-893831107)
+[![Gmail Badge](https://img.shields.io/badge/-Say_Hi!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
 
 
 ## :gear: Technologies & Tools
@@ -56,7 +56,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ###### API
 
-![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=REST&logoColor=336791)
+![RESTAPI](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=none&logoColor=336791)
 
 ###### Package managers
 
