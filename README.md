@@ -28,12 +28,12 @@ Hi there, I'm Yashsvi (Yashi)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=javascript&logoColor=808080)
-![C#](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=8993be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=4B8BBE)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=FFA500)
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-000000?style=flat&logo=amazon)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-000000?style=flat&logo=amazon-aws)
 ![Firebase Functions](https://img.shields.io/badge/-Firebase_Functions-000000?style=flat&logo=firebase)
 
 ###### Framework
@@ -53,6 +53,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000000?style=flat&logo=Amazon-aws)
 
 ###### API
 
@@ -73,7 +74,7 @@ Hi there, I'm Yashsvi (Yashi)
 
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku&logoColor=8993be)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
 
 ###### Container management
 
