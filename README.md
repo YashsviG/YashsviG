@@ -87,17 +87,19 @@ Hi there, I'm Yashsvi (Yashi)
 ![InVision](https://img.shields.io/badge/-InVision-000000?style=flat&logo=invision)
 
 ## :computer: Currently learning :computer:
-###### Data Science / Machine Learning / Artificial Intelligence
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+###### Data Science / Machine Learning / Networking
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
 ![AWS Lambda](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
 
 ## &#x1f4c8; GitHub Stats
+<p align=center >
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsvig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dark" />
 
-<a href="https://github.com/YashsviG/YashsviG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
-</a>
-<a href="https://github.com/YashsviG/YashsviG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsvig&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21&hide=issues" alt="yashsvig's GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=yashsvig&show_icons=true&line_height=30&count_private=true&hide=issues,contributed&disable_animations=true&theme=dark" alt="yashsvig's GitHub Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&langs_count=3&hide=HTML,CSS" /> -->
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsvig" alt="yashsvig" /> </p>
