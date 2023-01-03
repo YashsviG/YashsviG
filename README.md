@@ -100,6 +100,8 @@ Hi there, I'm Yashsvi (Yashi)
 <img src="https://github-readme-stats.vercel.app/api?username=yashsvig&show_icons=true&line_height=30&count_private=true&hide=issues,contributed&disable_animations=true&theme=dark" alt="yashsvig's GitHub Stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&langs_count=3&hide=HTML,CSS" /> -->
 
+<img src="https://github-profile-trophy.vercel.app/?username=yashsvig&theme=onedark&rank=S,A" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsvig" alt="yashsvig" /> </p>
