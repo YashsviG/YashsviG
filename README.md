@@ -94,14 +94,14 @@ Hi there, I'm Yashsvi (Yashi)
 
 ## &#x1f4c8; GitHub Stats
 <p align=center >
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsvig&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dark" />
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yashsvig&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashsvig&show_icons=true&line_height=30&count_private=true&hide=issues,contributed&disable_animations=true&theme=dark" alt="yashsvig's GitHub Stats" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&langs_count=3&hide=HTML,CSS" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&langs_count=3&hide=HTML,CSS&theme=dark" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashsvig&theme=onedark&rank=S,A" />
-</p>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yashsvig&theme=onedark&rank=S,A" /> -->
+<!-- </p> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsvig" alt="yashsvig" /> </p>
