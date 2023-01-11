@@ -1,6 +1,6 @@
 <h1 align="center">
   👋
-Hi there, I'm Yashsvi (Yashi)
+Hi there, I'm Samridh
   👋
 </h1>
 
@@ -8,8 +8,8 @@ Hi there, I'm Yashsvi (Yashi)
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yashsvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashsvig/)](https://www.linkedin.com/in/yashsvi-g-893831107)
-[![Gmail Badge](https://img.shields.io/badge/-Say_Hi!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:girdhar.yashsvi@gmail.com)](mailto:girdhar.yashsvi@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Samridh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samridhgirdhar/)
+[![Gmail Badge](https://img.shields.io/badge/-Say_Hi!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samridh21282@iiitd.ac.in)](mailto:samridh21282@iiitd.ac.in)
 
 
 ## :gear: Technologies & Tools
