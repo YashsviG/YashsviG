@@ -85,19 +85,19 @@ Hi there, I'm Yashsvi (Yashi)
 
 ### :computer: Currently learning :computer:
 ###### Data Science / Machine Learning / Networking
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest)
 ![AWS Lambda](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon)
-
-### &#x1f4c8; GitHub Stats
-<p align=center >
+ -->
+<!-- ### &#x1f4c8; GitHub Stats -->
+<!-- <p align=center > -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yashsvig&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 
-<p align= "center">
-  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=yashsvig&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&theme=react&layout=compact&hide=HTML,CSS" />
-</p>
+<!-- <p align= "center"> -->
+<!--   <img height= "170" src="https://github-readme-stats.vercel.app/api?username=yashsvig&theme=react&show_icons=true&include_all_commits=true" /> -->
+<!--   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsvig&theme=react&layout=compact&hide=HTML,CSS" /> -->
+<!-- </p> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=yashsvig&theme=onedark&rank=S,A" /> -->
 <!-- </p> -->
 
