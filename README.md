@@ -20,6 +20,7 @@ Hi there, I'm Yashsvi (Yashi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=for-the-badge&logo=jquery)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=Angular&logoColor=a6120d)
 
 ###### Backend
 
@@ -83,8 +84,11 @@ Hi there, I'm Yashsvi (Yashi)
 ![Proto.io](https://img.shields.io/badge/-Proto.io-000000?style=for-the-badge&logo=proto.io)
 ![InVision](https://img.shields.io/badge/-InVision-000000?style=for-the-badge&logo=invision)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### :computer: Currently learning :computer:
-###### Data Science / Machine Learning / Networking
+###### Machine Learning / Network Security
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest)
 ![AWS Lambda](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon)
